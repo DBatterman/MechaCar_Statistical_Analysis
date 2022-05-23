@@ -55,3 +55,6 @@ Lot 3
 
 For Lot 1 and Lot 2 respectively, the p-value is also > 0.05, so we once again don't have enough data to reject the null hypothesis. However, for Lot 3, our p-value is < 0.05. Therefore we can reject the null hypothesis that the average PSI is 1500 lbs/(in^2)
 
+## Study Design: MechaCar vs Competition
+
+We want to perform another study to see how MechaCar stacks up versus other options on the market. We want this study to find results that will make MechaCar more appealing to customers. One of the biggest draws to cars is their safety, so it would be a good idea to compare the average safety rating compared to other cars ont the market. Our null hypothesis is that MechaCar has the average safety rating, and the alternative hypothesis is that it is higher than average. We would need to gather the data from the different kinds of safety tests, and get their summary. Then we can run multiple T-Tests; one for the total and then more for indificual tests. One thing to be careful of is the randomness that can occur with many different groups, but that is something we can make a note of.
